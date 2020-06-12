@@ -1,1 +1,3 @@
 The first test file.
+
+Add some words to mergedemo.
